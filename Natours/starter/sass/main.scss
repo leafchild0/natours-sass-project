@@ -11,6 +11,8 @@ Apply inherit from body for box-sizing
 @import 'base/typography';
 @import 'base/utilities';
 @import 'pages/home';
-@import 'components/button';
 @import 'layout/header';
 @import 'layout/grid';
+@import 'components/button';
+@import 'components/composition';
+@import 'components/feature-box';
