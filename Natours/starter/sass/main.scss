@@ -3,10 +3,10 @@ Apply for all elements and pseudo components
 Apply inherit from body for box-sizing 
 */
 
-@import 'base/base';
 @import 'abstracts/variables';
-@import 'abstracts/mixins';
 @import 'abstracts/functions';
+@import 'abstracts/mixins';
+@import 'base/base';
 @import 'base/animations';
 @import 'base/typography';
 @import 'base/utilities';
